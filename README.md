@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CircuitButKerbin
-- 👀 I’m interested in ... Python, Java, C++
+- 👀 I’m interested in ... Lua, Java, C++
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Games, Python stuff, ect.
-- 📫 How to reach me ... Email, Discord
+- 📫 How to reach me ... Email, Discord (jeb.kerman)
 
 <!---
 CircuitButKerbin/CircuitButKerbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
